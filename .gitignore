@@ -2,8 +2,5 @@
 .DS_Store
 
 /.ipynb_checkpoints
-/Example Project
 
-bivariate.ipynb
-multivariate.ipynb
 prosperLoanData.csv
